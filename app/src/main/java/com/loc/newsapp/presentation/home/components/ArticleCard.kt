@@ -89,6 +89,9 @@ fun ArticleCard(
                     style = MaterialTheme.typography.labelSmall,
                     color = colorResource(id = R.color.body)
                 )
+                Text(
+                    text = "Rizky Haksono",
+                )
             }
         }
     }
